@@ -2,16 +2,16 @@
 ### The Rust Projects Playbook - 10 Practical Builds in Rust
 
 ## Index
-* [Project 0](Project_0/README.md)
-* [Project 1](Project_1/README.md)
-* [Project 2](Project_2/README.md)
-* [Project 3](Project_3/README.md)
-* [Project 4](Project_4/README.md)
-* [Project 5](Project_5/README.md)
-* [Project 6](Project_6/README.md)
-* [Project 7](Project_7/README.md)
-* [Project 8](Project_8/README.md)
-* [Project 9](Project_9/README.md)
+* [Project 0](project_0/README.md)
+* [Project 1](project_1/README.md)
+* [Project 2](project_2/README.md)
+* [Project 3](project_3/README.md)
+* [Project 4](project_4/README.md)
+* [Project 5](project_5/README.md)
+* [Project 6](project_6/README.md)
+* [Project 7](project_7/README.md)
+* [Project 8](project_8/README.md)
+* [Project 9](project_9/README.md)
 
 
 backend (axum + sqlx + postgres) CRUD
