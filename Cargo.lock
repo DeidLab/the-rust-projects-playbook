@@ -2727,10 +2727,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d135ede8821cf6376eb7a64148901e1690b788c11ae94dc297ae917dbc91dc0e"
 
 [[package]]
-name = "project_0"
-version = "0.1.0"
-
-[[package]]
 name = "project_1"
 version = "0.1.0"
 
@@ -3016,6 +3012,10 @@ name = "shlex"
 version = "1.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "a7cee0529a6d40f580e7a5e6c495c8fbfe21b7b52795ed4bb5e62cdf92bc6380"
+
+[[package]]
+name = "shorturl-rs"
+version = "0.1.0"
 
 [[package]]
 name = "simd-adler32"

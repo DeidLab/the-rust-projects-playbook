@@ -1,5 +1,5 @@
 [package]
-name = "project_0"
+name = "shorturl-rs"
 version = "0.1.0"
 edition = "2021"
 
