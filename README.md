@@ -13,13 +13,13 @@
 * [Project 8](project_8/README.md)
 * [Project 9](project_9/README.md)
 
-
+url shortener library
 backend (axum + sqlx + postgres) CRUD
 frontend (yew or leptos + tailwind or bootstrap) related to first one for creating maybe a blog?
 tauri for desktop application (todo app)
 cli with clap for renaming recursively folders or files
 match 3 game with bevy (or maybe 2048)
 network analyzer
-something with candle?
+something with candle? (or maybe burn)
 something with raspberry pi? -> blink and button or something more interesting like a uart or tcp driver?
 web scraper?
